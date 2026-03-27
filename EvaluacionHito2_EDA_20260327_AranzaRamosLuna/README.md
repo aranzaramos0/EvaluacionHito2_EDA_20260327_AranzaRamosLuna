@@ -72,11 +72,9 @@ Si se hubiera usado un arreglo estático, las operaciones de inserción y elimin
 3. **Compilar** el programa con el siguiente comando:
    ```bash
    g++ main.cpp -o turnos
-   Ejecutar el programa:
+
+## Ejecutar el Programa
 
 En Linux/macOS: ./turnos
 
 En Windows: turnos.exe
-Autor/a:
-Aranza Mayerlin Ramos Luna
-27 de marzo de 2027
